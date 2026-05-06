@@ -6,3 +6,4 @@
 - `source [venv directory]/bin/activate`
 - `pip install -r requirements.txt`
 - `pytest`
+- `pytest --cov --cov-branch --cov-report=xml`
